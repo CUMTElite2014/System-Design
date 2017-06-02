@@ -22,6 +22,6 @@
 ###Inventory其他方法
 ![Inventory其他方法](https://github.com/muxiaobai/OOAD/blob/master/task5/201606041026.png "title")
 ###Inventory其他方法。调用IGuitarDao方法，持久化
-![Inventory其他方法实现](https://github.com/muxiaobai/OOAD/blob/master/task5/201606041040.png "title")
+![Inventory其他方法实现](https://github.com/CUMTElite2014/System-Design/blob/master/guitarV3/201606041040.png "title")
 
 --------------
