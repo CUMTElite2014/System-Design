@@ -12,8 +12,8 @@
 -----------------------------
 ##代码分析
 ###更换文件，修改数据库
-![更换文件修改数据库](https://github.com/CUMTElite2014/System-Design/blob/master/guitarV3/5.png "title")
-![更换文件修改数据库](https://github.com/CUMTElite2014/System-Design/blob/master/guitarV3/6.png "title")
+![更换文件修改数据库](https://github.com/CUMTElite2014/System-Design/blob/master/guitarV3/5.PNG "title")
+![更换文件修改数据库](https://github.com/CUMTElite2014/System-Design/blob/master/guitarV3/6.PNG "title")
 ![更换文件修改数据库](https://github.com/CUMTElite2014/System-Design/blob/master/guitarV3/7.png "title")
 ###初始化仓库，中间注入IGuitarDao
 ![注入](https://github.com/CUMTElite2014/System-Design/blob/master/guitarV3/8.png "title")
