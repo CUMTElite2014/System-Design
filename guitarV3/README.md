@@ -1,5 +1,5 @@
 # OOA&D
-Object-Oriented Analysis &amp; Design 课程设计作业
+系统分析与设计 课程设计作业
 
 -------------
 
