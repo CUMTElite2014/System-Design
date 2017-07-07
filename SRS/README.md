@@ -9,30 +9,29 @@ Object-Oriented Analysis &amp; Design 课程设计作业
 ----------------------------
 #图片运行结果
 ##登录
-![登录](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012041.png "登录")
+![登录](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E7%99%BB%E5%BD%95.png "登录")
 ##显示登录信息
 ![主页](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012042.png "主页")
 ##课程查询
-![课程查询](https://github.com/muxiaobai/OOAD/blob/master/task6/201607011958.png "课程查询")
+![课程查询](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E8%AF%BE%E7%A8%8B%E6%9F%A5%E8%AF%A2.png "课程查询")
 ##选课
-![选课](https://github.com/muxiaobai/OOAD/blob/master/task6/201607011959.png "选课")
+![选课](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E9%80%89%E8%AF%BE.png "选课")
 ## 我的已选的课
-![选课](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012002.png "选课")
+![选课](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E5%B7%B2%E9%80%89%E8%AF%BE.png"选课")
 
 ## 代码分析
 -----------------------------
-![选课](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012003.png "选课")
-![选课](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012004.png "选课")
+![选课](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E4%BB%A3%E7%A0%81.png "选课")
+![选课](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E4%BB%A3%E7%A0%812.png "选课")
 ####切换数据库参考
-![切换数据库](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012008.png "切换数据库")
-其他与更换数据库有关的文件可参看[task5切换数据库](https://github.com/muxiaobai/OOAD/tree/master/task5)
+![切换数据库](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E6%95%B0%E6%8D%AE%E5%BA%93.png "切换数据库")
 -----------------------------
 ##老师课程增删改
-![老师课程增删改](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012001.png "老师课程增删改")
+![老师课程增删改](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E8%80%81%E5%B8%88%E8%AF%BE%E7%A8%8B%E5%A2%9E%E5%88%A0%E6%94%B9.png "老师课程增删改")
 
-![课程增删改](https://github.com/muxiaobai/OOAD/blob/master/task6/201607011960.png "课程增删改")
+![课程增删改](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E5%A2%9E%E5%88%A0%E6%94%B9.png "课程增删改")
 ##查看已选的学生
-![课程增删改](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012000.png "课程增删改")
+![课程增删改](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E6%9F%A5%E7%9C%8B%E5%B7%B2%E9%80%89.png "课程增删改")
 
 ## 已选课程的学生
 ![已选课程的学生](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012000.png "老师课程增删改")
