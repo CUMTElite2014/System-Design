@@ -11,7 +11,7 @@ Object-Oriented Analysis &amp; Design 课程设计作业
 ##登录
 ![登录](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E7%99%BB%E5%BD%95.png "登录")
 ##显示登录信息
-![主页](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012042.png "主页")
+![主页](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E6%98%BE%E7%A4%BA%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF.png "主页")
 ##课程查询
 ![课程查询](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E8%AF%BE%E7%A8%8B%E6%9F%A5%E8%AF%A2.png "课程查询")
 ##选课
@@ -34,26 +34,23 @@ Object-Oriented Analysis &amp; Design 课程设计作业
 ![课程增删改](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E6%9F%A5%E7%9C%8B%E5%B7%B2%E9%80%89.png "课程增删改")
 
 ## 已选课程的学生
-![已选课程的学生](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012000.png "老师课程增删改")
-
-## 已选课程的学生
-![老师课程增删改](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012000.png "老师课程增删改")
+![已选课程的学生](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E6%9F%A5%E7%9C%8B%E5%B7%B2%E9%80%89.png"老师课程增删改")
 
 ## 学生的成绩单
-![老师课程增删改](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012000.png "老师课程增删改")
+![老师课程增删改](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E8%80%81%E5%B8%88%E8%AF%BE%E7%A8%8B%E5%A2%9E%E5%88%A0%E6%94%B9.png "老师课程增删改")
 
 --------------------------------
 ##图
 ###数据库表
-![数据库表](https://github.com/muxiaobai/OOAD/blob/master/task6/SRS.png "数据库表")
+![数据库表](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A1%A8%20(2).png "数据库表")
 
 ###选课逻辑
-![选课逻辑](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012045.png "选课逻辑")
+![选课逻辑](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E9%80%89%E8%AF%BE%E9%80%BB%E8%BE%911.png "选课逻辑")
 
 ###查询成绩单逻辑
-![更换文件修改数据库](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012043.png "title")
+![更换文件修改数据库](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E9%80%89%E8%AF%BE%E9%80%BB%E8%BE%912.png "title")
 
 ###类图
-![更换文件修改数据库](https://github.com/muxiaobai/OOAD/blob/master/task6/201607012050.png "title")
+![更换文件修改数据库](https://github.com/CUMTElite2014/System-Design/blob/master/SRS/%E7%B1%BB%E5%9B%BE.png "title")
 
 --------------
